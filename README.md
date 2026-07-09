@@ -31,7 +31,6 @@ Aspiring Java Backend Developer leveraging 6 years of engineering experience to 
 ⚡ Database
 
 * PostgreSQL
-* MySQL
 
 🔭 Tools
 
