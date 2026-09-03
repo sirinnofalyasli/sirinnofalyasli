@@ -27,6 +27,8 @@ Aspiring Java Backend Developer leveraging 6 years of engineering experience to 
 * HTML
 * CSS
 * JavaScript
+* React
+* Axios
 
 ⚡ Database
 
